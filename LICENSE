@@ -1,0 +1,1 @@
+Terraform project to deploy a secure AWS VPC infrastructure with public/private subnets, Internet Gateway, and route tables.
